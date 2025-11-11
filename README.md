@@ -20,9 +20,9 @@ Ensure the following components are available before beginning the setup:
 ## **2. Installation of the Meta Quest Mobile Application**
 
 1. Open the **App Store** (for iOS) or **Google Play Store** (for Android).
-2. Search for **“Meta Quest”**.
+2. Search for **“Meta Horizont App”**.
 3. Select **Install** or **Download**.
-4. Once installed, launch the **Meta Quest** application.
+4. Once installed, launch the **Meta Horizont App** application.
 
 ![oshw2 demo fast](https://github.com/smsanchez1/Images/blob/main/metaquest.jpg?raw=true)
 
@@ -30,7 +30,7 @@ Ensure the following components are available before beginning the setup:
 
 ## **3. Meta Account Setup or Login**
 
-1. Open the **Meta Quest** application.
+1. Open the **Meta Horizont App** application.
 2. Select **Continue**.
 3. Choose one of the following options:
 
@@ -73,7 +73,7 @@ Follow the on-screen instructions to proceed.
 
 ## **5. Pairing the Headset with the Meta Quest App**
 
-1. Open the **Meta Quest** application on the mobile device.
+1. Open the **Meta Horizont App** application on the mobile device.
 2. Log in using the same Meta account credentials created or used earlier.
 3. Select **Set up new headset** when prompted.
 4. Choose the correct model (**Meta Quest 2** or **Meta Quest 3**).
