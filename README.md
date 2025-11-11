@@ -13,7 +13,7 @@ Ensure the following components are available before beginning the setup:
 * A **smartphone** (iOS or Android)
 * Access to a **stable Wi-Fi connection**
 
-![oshw2 demo fast](https://github.com/smsanchez1/Images/blob/main/metaquest.jpg?raw=true)
+![oshw2 demo fast](https://github.com/smsanchez1/Images/blob/main/descarga.webp?raw=true)
 
 ---
 
