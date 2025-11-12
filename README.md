@@ -10,9 +10,6 @@ Before starting, make sure that **all devices are connected to the same Wi-Fi ne
 - **Cast to a TV using Google Chromecast**
 - **Tips**
 
----
-
-
 
 ---
 

@@ -60,7 +60,7 @@ def concatenate_markdown_files(file_paths, output_path):
         for path in paths[1:]:
             title = extract_first_line(path)
             result.append(f"- {title}\n")
-        result.append("\n---\n\n")
+        #result.append("\n---\n\n")
     
     # Append remaining files
     for path in paths[1:]:
