@@ -1,4 +1,3 @@
-## **Casting from Meta Quest**
+## **Connecting with Meta Quest Link**
 
-Casting allows you to display what the user sees inside the headset on another device such as a phone, computer, or TV.
-Before starting, make sure that **all devices are connected to the same Wi-Fi network** and, if applicable, that they are **logged into the same Meta account**.
+Meta Quest Link allows you to connect your headset to a Windows PC to play PC VR content, use Remote Desktop, or share your screen.
